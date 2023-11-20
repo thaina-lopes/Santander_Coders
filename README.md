@@ -2,9 +2,40 @@
 <h1><div align = "center"> Santander Coders 2023.2 | Front-End :computer:</div></h1>
 </br>
 <h2><b><div align = "center">Objetivo</align></b></h2>
-<p>Esse repositório irá guardar de forma bastante clara, todos os conceitos e conhecimentos adquiridos com o curso de JavaScript fornecido pela Ada Tech.</p>
+<p>Esse repositório irá guardar os conceitos e conhecimentos adquiridos com o curso de Front-End fornecido pela Ada Tech.</p>
 </br></br>
 
+<h2><b><div align = "center">Sequência cronológica</div></b></h2>
+</br>
+:dart: Github </br>
+:dart: JavaScript </br>
+</br></br>
+
+<h1><b><div align = "center">Git e Github</div></b></h1>
+</br>
+<h3><b><div align = "center">Comandos para subir o projeto para o Github a partir do terminal:</div></b></h3>
+</br>
+<p><b>git init</b> Inicia um repositório Git em um diretório específico</br>
+<b>git add .</b> Adiciona todas as alterações feitas nos arquivos do diretório atual ao "staging area" do Git </br>
+<b>git status</b> Exibe informações sobre quais arquivos foram modificados, quais estão no "staging area" prontos para serem commitados, e se há diferenças entre a cópia local e o repositório remoto.</br>
+<b>git commit -m exemplo</b> (nome do commit) Usado para criar a primeira versão do repositório Git</br>
+<b>git branch -M main</b> Usado para renomear a branch padrão do Git de 'master' para 'main'. O -M é usado para forçar a mudança de nome da branch principal.</br>
+<b>git remote http://...</b> (link do repositório do github) Usado após o primeiro commit, quando você decide conectar o seu repositório local a um repositório remoto existente ou ao criar um novo repositório remoto.</br>
+<b>git push -u origin main</b> Usado para enviar commits locais para um repositório remoto chamado "origin" </p>
+</br>
+
+<h3><b><div align = "center">Comandos para fazer um commit:</div></b></h3>
+</br>
+<p><b>git status</b></br>
+<b>git add .</b></br>
+<b>git status</b></br>
+<b>git commit -m exemplo</b> (descrição da alteração feita no projeto)</br>
+<b>git push origin main</b></br>
+</br>
+
+</br></br>
+<h1><b><div align = "center">JavaScript</div></b></h1>
+</br>
 <h2><b><div align = "center">Variáveis e tipos de dados</div></b></h2>
 <p><b>Number:</b> Números</br><b>String:</b> Texto</br><b>Booleano:</b> Verdadeiro ou falso </br> <b>Array:</b> Armazena uma coleção de valores</br><b>Object:</b> Conjunto de atributos aninhados a uma variável</br><b>Functions:</b> É possivel declarar uma variável como uma função, podendo fazer operações e retornando o valor para a variável de declaração </p>
 <p>No <b>JavaScript</b>, as variáveis podem ser declaradas de duas maneiras, sendo elas:</p>
