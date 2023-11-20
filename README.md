@@ -7,12 +7,20 @@
 
 <h2><b><div align = "center">Sequência cronológica</div></b></h2>
 </br>
-:dart: Github </br>
+:dart: Git e Github </br>
 :dart: JavaScript </br>
 </br></br>
 
 <h1><b><div align = "center">Git e Github</div></b></h1>
 </br>
+<h3><b>Git</b></h3>
+<p>É um sistema de controle de versão distribuído usado para rastrear as mudanças em arquivos ao longo do tempo.</br>
+Ele registra alterações em arquivos, permitindo que você acompanhe o histórico completo das modificações, crie ramificações para desenvolver recursos independentes e una essas mudanças de volta ao projeto principal.</p>
+<h3><b>Github</b></h3>
+<p>É uma plataforma de hospedagem baseada na web que usa o Git para controle de versão e colaboração em projetos de software.</br>
+Ele oferece recursos para hospedar repositórios Git, além de funcionalidades que facilitam a colaboração entre desenvolvedores.</p>
+</br>
+
 <h3><b><div align = "center">Comandos para subir o projeto para o Github a partir do terminal:</div></b></h3>
 </br>
 <p><b>git init</b> Inicia um repositório Git em um diretório específico</br>
@@ -26,8 +34,7 @@
 
 <h3><b><div align = "center">Comandos para fazer um commit:</div></b></h3>
 </br>
-<p><b>git status</b></br>
-<b>git add .</b></br>
+<p><b>git add .</b></br>
 <b>git status</b></br>
 <b>git commit -m exemplo</b> (descrição da alteração feita no projeto)</br>
 <b>git push origin main</b></br>
