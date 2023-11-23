@@ -26,9 +26,9 @@ Ele oferece recursos para hospedar repositórios Git, além de funcionalidades q
 <p><b>git init</b> Inicia um repositório Git em um diretório específico</br>
 <b>git add .</b> Adiciona todas as alterações feitas nos arquivos do diretório atual ao "staging area" do Git </br>
 <b>git status</b> Exibe informações sobre quais arquivos foram modificados, quais estão no "staging area" prontos para serem commitados, e se há diferenças entre a cópia local e o repositório remoto.</br>
-<b>git commit -m exemplo</b> (nome do commit) Usado para criar a primeira versão do repositório Git</br>
+<b>git commit -m "exemplo"</b> (nome do commit) Usado para criar a primeira versão do repositório Git</br>
 <b>git branch -M main</b> Usado para renomear a branch padrão do Git de 'master' para 'main'. O -M é usado para forçar a mudança de nome da branch principal.</br>
-<b>git remote http://...</b> (link do repositório do github) Usado após o primeiro commit, quando você decide conectar o seu repositório local a um repositório remoto existente ou ao criar um novo repositório remoto.</br>
+<b>git remote add origin http://...</b> (link do repositório do github) Usado após o primeiro commit, quando você decide conectar o seu repositório local a um repositório remoto existente ou ao criar um novo repositório remoto.</br>
 <b>git push -u origin main</b> Usado para enviar commits locais para um repositório remoto chamado "origin" </p>
 </br>
 
