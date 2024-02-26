@@ -36,7 +36,7 @@ Ele oferece recursos para hospedar repositórios Git, além de funcionalidades q
 </br>
 <p><b>git add .</b></br>
 <b>git status</b></br>
-<b>git commit -m exemplo</b> (descrição da alteração feita no projeto)</br>
+<b>git commit -m "exemplo"</b> (breve descrição da alteração feita no projeto)</br>
 <b>git push origin main</b></br>
 </br>
 
